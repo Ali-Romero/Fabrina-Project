@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FFabrina-Project\u002FFabrina-Project\u002F_nuxt\u002Fstatic\u002F1768137232",layout:"default",error:a,serverRendered:false,routePath:"\u002Flessons",config:{headerHeight:66,_app:{basePath:"\u002FFabrina-Project\u002F",assetsPath:"\u002FFabrina-Project\u002FFabrina-Project\u002F_nuxt\u002F",cdnURL:a}}}}(null));
